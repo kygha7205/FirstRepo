@@ -1,0 +1,7 @@
+a = int(input("series: "))
+for i in range(a):
+  for i in range(a):
+    if (i%3==0):
+      print ("x",end=" ")
+   else:
+      print (i,end=" ")
