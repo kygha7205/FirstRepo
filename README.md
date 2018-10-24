@@ -13,8 +13,10 @@ x
 4
 5
 x
+7
+
 
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success
+Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success -> saturday
