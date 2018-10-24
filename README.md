@@ -14,7 +14,7 @@ x
 5
 x
 7
-
+8
 
 
 ### Word chain game
