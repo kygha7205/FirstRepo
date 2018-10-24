@@ -3,6 +3,7 @@
 
 This is my first commit
 
+### 3 6 9 game
 
 1
 2
@@ -10,6 +11,6 @@ x
 4
 
 
-끝말잇기 게임
+### Word chain game
 
-비행기 -> 기차 -> 차표
+Airplane -> elephant -> tower -> 
