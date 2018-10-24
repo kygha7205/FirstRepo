@@ -9,8 +9,8 @@ This is my first commit
 2
 x
 4
-
+5
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> 
+Airplane -> elephant -> tower -> reservation
