@@ -12,7 +12,9 @@ Welcome to FirstRepo!
 x
 4
 5
+x
+
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious
+Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious - success
