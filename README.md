@@ -1,7 +1,9 @@
 # FirstRepo
 
 
-This is my first commit
+This is my first commit<br>
+Welcome to FirstRepo!
+
 
 ### 3 6 9 game
 
