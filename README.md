@@ -17,4 +17,4 @@ x
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious - success
+Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success
