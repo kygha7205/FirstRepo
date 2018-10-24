@@ -1,8 +1,8 @@
 # FirstRepo
 
 
-This is my first commit
-
+## This is my first commit
+## Welcome to FirstRepo!
 
 1
 2
