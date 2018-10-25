@@ -19,4 +19,4 @@ x
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success -> saturday -> youngish
+Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success -> saturday -> youngish -> horror
